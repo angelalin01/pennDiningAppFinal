@@ -21,11 +21,24 @@ University of Pennsylvania Dining app that displays the retail and residential d
 - Swift 4 (Kingfisher 4.x), Swift 3 (Kingfisher 3.x), Kingfisher is a third party library used for image caching
 
 ## Installing Kingfisher
-`<sudo gem install cocoapods>`
+
+Run following command in terminal to install cocoapods: 
+`sudo gem install cocoapods`
+
+cd into the project folder and run
+`pod init`
+
+Check back in project folder for a file named Podfile. Open file in text editor and add following line to the Podfile
+`pod 'Kingfisher', '~> 4.0`
+
+Finally, run
+`pod install`
+
+Make sure to build and run the app from the workspace (white colored xcode.proj file)
 
 ## Running the App
 - Download project from https://github.com/angelalin01/diningApp/tree/master/diningAppFINAL and open the workspace in XCode
-- Build proejct and run app on the XCode iPhone Simulator 
+- Build project and run app on the XCode iPhone Simulator 
 
 ## Classes and App Design:
 
