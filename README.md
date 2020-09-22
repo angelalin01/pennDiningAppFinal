@@ -37,7 +37,7 @@ Finally, run
 Make sure to build and run the app from the workspace (white colored xcode.proj file)
 
 ## Running the App
-- Download project from https://github.com/angelalin01/diningApp/tree/master/diningAppFINAL and open the workspace in XCode
+- Download project from https://github.com/angelalin01/pennDiningAppFinal.git and open the workspace in XCode
 - Build project and run app on the XCode iPhone Simulator 
 
 ## Classes and App Design:
