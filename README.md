@@ -4,7 +4,7 @@
 University of Pennsylvania Dining app that displays the retail and residential dining options on campus, its open and closed times, and presents a link to each venues’ additional info page. 
 
 
-<img src="https://github.com/angelalin01/pennDiningAppFinal/blob/master/dining%20app%20final%20page%201.png" alt="alt text" width="500" height="1000"> <img src="https://github.com/angelalin01/diningApp/blob/master/penn%20dining%20page%202.png" alt="alt text" width="500" height="1000">
+<img src="https://github.com/angelalin01/pennDiningAppFinal/blob/master/dining%20app%20final%20page%201.png" alt="alt text" width="500" height="1000"> <img src="https://github.com/angelalin01/pennDiningAppFinal/blob/master/penn%20dining%20page%202.png" alt="alt text" width="500" height="1000">
 
 
 
